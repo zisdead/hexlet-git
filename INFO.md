@@ -1,1 +1,2 @@
-git is awesome!
+git is someshit!
+Fgit is Fsomeshit!
